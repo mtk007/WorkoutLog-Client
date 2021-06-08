@@ -1,0 +1,1 @@
+If you cannot see any of the postman screen shots in here (mac instructions I found don't seem to be helping) please go to the WD85_FT>projects>workoutlog>assets folder. 
